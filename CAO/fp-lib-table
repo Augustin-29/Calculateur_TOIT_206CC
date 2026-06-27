@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "empreinte") (type "KiCad") (uri "${KIPRJMOD}/empreinte") (options "") (descr ""))
+	(lib (name "Connecteur_Jaune_206CC_26P") (type "KiCad") (uri "${KIPRJMOD}/empreinte/Connecteur_Jaune_206CC_26P.pretty") (options "") (descr ""))
+)
